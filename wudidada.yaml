@@ -846,4 +846,4 @@ Rule:
   # GeoIP China
   - GEOIP,CN,DIRECT
 
-  - MATCH,Others
+  - MATCH,auto
