@@ -34,7 +34,7 @@ secret: ''
 
 
 Proxy:
-  - {"name":"Jusbin","type":"vmess","server":"104.36.67.24","port":11590,"uuid":"984c2614-4331-4808-a3ba-ca259b653f7c","alterId":64,"cipher":"auto"}
+  - {"name":"Jusbin","type":"vmess","server":"104.36.67.24","port":11591,"uuid":"984c2614-4331-4808-a3ba-ca259b653f7c","alterId":64,"cipher":"auto"}
 
 Proxy Group:
   -
